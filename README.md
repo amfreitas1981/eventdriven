@@ -3,6 +3,12 @@ API exemplo responsavel para aplicacao EDA
 
 # Event-Driven Application
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-100%25-success)
+![Java](https://img.shields.io/badge/java-17-blue)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+
 ## 📌 Sobre o Projeto
 Esta aplicação implementa um modelo de **Event-Driven Architecture (EDA)** utilizando **Java 17, Spring Boot 3 e RabbitMQ**. Ela permite a publicação e consumo de eventos através de uma fila de mensageria.
 
